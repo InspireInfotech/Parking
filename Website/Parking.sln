@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Parking", "C:\Users\sureshjalaja\Documents\Visual Studio 2008\WebSites\Parking\", "{8002B538-1E64-46B7-B566-A4C781B0C9B0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Parking"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\sureshjalaja\Documents\Visual Studio 2008\WebSites\Parking\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Parking\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Parking"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\sureshjalaja\Documents\Visual Studio 2008\WebSites\Parking\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Parking\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56128"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8002B538-1E64-46B7-B566-A4C781B0C9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8002B538-1E64-46B7-B566-A4C781B0C9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
